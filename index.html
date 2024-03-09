@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tour Budget Calculator</title>
+ <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div id="planner">
+  <h1>Tour Budget Calculator</h1>
+  <select id="country">
+    <option value="China">China</option>
+    <option value="Taiwan">Taiwan</option>
+    <option value="Japan">Japan</option>
+    <option value="Korea">Korea</option>
+    <option value="Vietnam">Vietnam</option>
+    <option value="Germany">Germany</option>
+    <option value="Canada">Canada</option>
+    <option value="Australia">Australia</option>
+    <option value="Mexico">Mexico</option>
+    <option value="Norway">Norway</option>
+    <option value="Indonesia">Indonesia</option>
+    <option value="Thailand">Thailand</option>
+    <option value="USA">USA</option>
+    <option value="UK">UK</option>
+  </select>
+  <select id="category">
+    <option value="normal">Normal</option>
+    <option value="business">Business</option>
+    <option value="premium">Premium</option>
+  </select>
+  <input type="number" id="months" placeholder="Enter number of months">
+  <button onclick="calculateBudget()" class="cal">Calculate</button>
+  <div id="results"></div>
+  <button id="downloadBtn" style="margin-top: 20px; display: none;" class="dwn">Download Report</button>
+  <div>
+<footer><p style="color:#0047ab;" class="foot">Powered by<a style="color:blue;"href="https://github.com/Akshayadeveloper"target="_blank">
+   &#128151;Akshaya developer &#128159;</a></p>
+</footer></div>
+</div>
+<script src="./script.js"></script>
+</body>
+</html>
