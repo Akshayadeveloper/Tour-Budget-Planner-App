@@ -1,6 +1,56 @@
 # Tour-Budget-Planner-App
 The Tour Budget Calculator is a web tool aiding travelers in planning expenses for diverse destinations and durations. Users input destination, travel category, and trip months to get detailed expense breakdowns including accommodation, meals, transport, sightseeing, etc. It computes total costs and allows downloading a comprehensive budget report.
 
+For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Tour-Budget-Planner-App/index.html 
+For video▶️ tutorial click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper.
+<br><br>
+<p><b>Demo</b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135759.jpg">
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135812.jpg">
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135829.jpg">
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135840.jpg">
+
+<p><b>Tour Budget Planner Categories</b></p>
+<p><b>Japan 🇯🇵 : Business Category - 2 Months </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135853.jpg">
+
+<p><b>South Korea 🇰🇷 : Premium Category - 5 Months </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135909.jpg">
+
+<p><b>Mexico 🇲🇽 : Business Category - 12 Months </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135920.jpg">
+
+<p><b>Norway 🇳🇴 : Business Category - 12 Months </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135936.jpg">
+
+<p><b>Indonesia 🇮🇩: Business Category - 6 Months </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_135949.jpg">
+
+<p><b>Thailand 🇹🇭 : Normal Category - 6 Months </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140005.jpg">
+
+<p><b>USA 🇺🇸: Premium Category - 6 Months </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140016.jpg">
+
+<p><b>Mobile 📲 version </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140158.jpg">
+<p><b>Australia 🇦🇺 - Premium Category - 1 month</b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140207.jpg">
+<p><b> Budget Calculation🧮</b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140219.jpg">
+<p><b>Download view </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140228.jpg">
+
+<p><b>Desktop 🖥️ version</b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140030.jpg">
+<p><b>Germany 🇩🇪 - Normal Category - 5 month</b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140040.jpg">
+<p><b> Budget Calculation🧮</b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140105.jpg">
+<p><b>Download view </b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140142.jpg">
+<p><b>Download view 🖥️ version</b></p>
+<img src="https://github.com/Akshayadeveloper/Tour-Budget-Planner-App/blob/main/IMG_20240309_140158.jpg">
 
 
 <b>Project Title: Tour Budget Calculator</b>
