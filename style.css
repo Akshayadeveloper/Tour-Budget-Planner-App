@@ -1,0 +1,72 @@
+ /* styles.css */
+@import url( 
+"https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4; 
+    background-image: linear-gradient(180deg,#582DF9, #04E0FA);
+  }
+  #planner {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-image:url("https://www.gifcen.com/wp-content/uploads/2022/11/confetti-gif-3.gif");
+  }
+
+  #results {
+    margin-top: 20px;
+    text-align: left;
+  }
+  h1{
+   /* background-image: linear-gradient(to right, rgb(110, 231, 183), rgb(59, 130, 246), rgb(147, 51, 234));*/
+    background-image: linear-gradient(180deg,#12c2e9, #c471ed, #f64f59);
+    background-color: #333;
+    color: #fff;
+    text-align:center;
+     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .cal{
+    font-size: 14px;
+    padding: 9px;
+    cursor: pointer;
+    color:#fff;
+    border:1px solid #000;
+    border-radius:6px;
+    box-shadow: #000019 0 0, rgba(0, 0, 25, .2) 0 9px 21px, rgba(73, 2, 57, .2) 0 0 inset;
+   /* background-image:linear-gradient(180deg,#03001e, #7303c0, #ec38bc, #fdeff9);*/
+    background-image:url("https://i.pinimg.com/originals/b1/3e/c4/b13ec46eaa4d918f4c3496330e589477.gif");
+    
+  }
+  .cal:hover{
+    border:1px solid #000;
+    border-radius:6px;
+    transform: scale(1.2);
+    color:#fff;
+  }
+  .dwn{
+    background-image:url("https://i.pinimg.com/originals/dd/b2/3e/ddb23e31d28926046d07d9476b975eab.gif");
+    /*background-image: linear-gradient( 173.1deg,  rgba(226,66,249,0.94) 10.2%, rgba(79,147,249,1) 77.3% );*/
+    font-size: 14px;
+    padding: 6px;
+    cursor: pointer;
+    color:#fff;
+    border:1px solid #00;
+    border-radius:6px;
+    box-shadow: #000019 0 0, rgba(0, 0, 25, .2) 0 9px 21px, rgba(73, 2, 57, .2) 0 0 inset;
+  }
+  .dwn:hover{
+    background-image:url("https://i.pinimg.com/originals/1c/94/38/1c9438c6c1f5b844a1f8095dddb5bdc4.gif");
+    border:1px solid #000;
+    border-radius:6px;
+    transform: scale(1.2);
+    color:#fff;
